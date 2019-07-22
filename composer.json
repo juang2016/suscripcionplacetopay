@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dnetix/redirection": "^0.6.1",
+        "vlucas/phpdotenv": "^3.4"
+    }
+}
